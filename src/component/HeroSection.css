@@ -1,0 +1,21 @@
+.title{
+    color:  #f00946;
+    font-size: large;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 150px;
+
+}
+.para{
+    
+    text-align:left;
+    font-size: 17px;
+    padding-left: 150px;
+    color: #fff;
+    margin-right: 150px;
+}
+.apropos{
+    
+    background-color: #1c2237;
+    height: 670px;
+}

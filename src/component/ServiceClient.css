@@ -1,0 +1,27 @@
+.input2{
+height: 100px;
+width: 400px;
+border-radius: 8px;
+border: none;
+position: relative;
+left: 462px;
+text-align:left;
+}
+.btn1{
+   
+        background-color:#25ce4a ;
+        color:#fff ;
+        position: relative;
+        left: 380px;
+        top: 90px;
+        border-radius: 5px;
+        height: 30px;
+        width: 80px;
+        border: none;
+    }
+.btn1:hover{
+    background-color:#fff ;
+    color:#242424 ;
+    border: none;
+}
+
